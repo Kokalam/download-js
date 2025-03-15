@@ -4,7 +4,8 @@
   "description": "Lightweight library to handle download of file",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "lint": "eslint **/*.js"
   },
   "devDependencies": {
     "eslint": "^7.7.0"
