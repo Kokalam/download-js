@@ -1,0 +1,19 @@
+{
+  "name": "download-js",
+  "version": "0.0.1",
+  "description": "Lightweight library to handle download of file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  },
+  "keywords": [
+    "download",
+    "big file",
+    "fetch"
+  ],
+  "author": "Stéphane Yvon",
+  "license": "MIT"
+}
